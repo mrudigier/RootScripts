@@ -14,7 +14,7 @@ Author: M. Rudigier
 
 ## Find time shift values for a large number of histograms:
 #### FindTimeShift.cpp              
-Initial calibrations of every fast timing experiments involves time alignment. With
+Initial calibrations of every fast timing experiment involves time alignment. With
 large detector arrays this can become very tideous, so this script provides a couple
 of ways to determine these shifts automatically.
 

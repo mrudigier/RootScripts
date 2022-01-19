@@ -1,6 +1,6 @@
 # Root scripts
 
-Collection of useful scriptsscripts for working with nuclear spectroscopy data
+Collection of useful sscripts for working with nuclear spectroscopy data
 using ROOT, the analysis frame work developed at cern (http:://root.cern).
 Please feel free to use these as they are, or to modify and ibase your own scripts on.
 
